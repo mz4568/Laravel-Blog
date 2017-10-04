@@ -1,0 +1,22 @@
+.main{width:956px;margin: 0 auto; display:block; border: 2px solid green}
+.left_part{width:295px;margin-left:15px;margin-right:15px;float:left;padding-bottom: 5px;}
+.left_part img{width:300px;height:150px;}
+.left_part h2{color:green;font-size:25px;text-align:center}
+.left_part p{text-align:justify}
+.left_part a{text-decoration:none;background-color:grey;color:white;font-weight:bold;
+padding:2px 91px;border-radius:13px}
+.left_part a:hover{color:red;background-color:green;}
+.middle_part{width:300px;margin-right:15px;float:left}
+.middle_part img{width:300px;height:150px;}
+.middle_part h2{color:green;font-size:25px;text-align:center}
+.middle_part p{text-align:justify}
+.middle_part a{text-decoration:none;background-color:grey;color:white;font-weight:bold;
+padding:2px 91px;border-radius:13px}
+.middle_part a:hover{color:red;background-color:green;}
+.right_part{width:300px;margin-right:15px;float:right}
+.right_part img{width:300px;height:150px;}
+.right_part h2{color:green;font-size:25px;text-align:center}
+.right_part p{text-align:justify}
+.right_part a{text-decoration:none;background-color:grey;color:white;font-weight:bold;
+padding:2px 91px;border-radius:13px}
+.right_part a:hover{color:red;background-color:green;}
